@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://secondbrainapp.in/"><img src="https://img.shields.io/badge/Secondbrain-Product-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Secondbrain" /></a>
-  <a href="https://www.linkedin.com/in/naveen-kumar-2a9a63105"><img src="https://img.shields.io/badge/LinkedIn-Naveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/naveen-kumar-29902a224"><img src="https://img.shields.io/badge/LinkedIn-Naveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:knaveen6868@gmail.com"><img src="https://img.shields.io/badge/Email-knaveen6868%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
